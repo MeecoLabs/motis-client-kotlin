@@ -60,7 +60,7 @@ fetch "v6/map/trips?zoom=15&min=48.139,11.557&max=48.141,11.560&startTime=$NOW_T
 fetch "v1/map/initial" "map_initial.json"
 fetch "v6/map/stops?min=48.139,11.557&max=48.141,11.560" "map_stops.json" 5
 fetch "v1/map/levels?min=48.139,11.555&max=48.142,11.560" "map_levels.json"
-fetch "experimental/map/routes?zoom=15&min=49.46,10.98&max=49.47,10.99" "map_routes.json"
+fetch "experimental/map/routes?zoom=18&min=53.70,7.15&max=53.71,7.16" "map_routes.json"
 
 ROUTE_IDX=$(jq -r '.routes[0].routeIdx' "$OUTPUT_DIR/map_routes.json")
 fetch "experimental/map/route-details?routeIdx=$ROUTE_IDX" "map_route_details.json"
