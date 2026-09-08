@@ -1,0 +1,15 @@
+{
+  "street_durations": [
+    {
+      "duration": 531
+    }
+  ],
+  "transit_durations": [
+    [
+      {
+        "duration": 6E+2,
+        "transfers": 0
+      }
+    ]
+  ]
+}

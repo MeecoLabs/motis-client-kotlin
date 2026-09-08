@@ -1,0 +1,257 @@
+[
+  {
+    "type": "STOP",
+    "tokens": [],
+    "name": "Munich",
+    "id": "fr-horaires-sncf_FR::LMO:719d92c0-3a69-11e9-8417-bb1d8a705241:",
+    "lat": 48.140100000000004,
+    "lon": 11.5587,
+    "country": "DE",
+    "zip": "80335",
+    "tz": "Europe/Berlin",
+    "areas": [
+      {
+        "name": "Deutschland",
+        "adminLevel": 2,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Bayern",
+        "adminLevel": 4,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Oberbayern",
+        "adminLevel": 5,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "München",
+        "adminLevel": 6,
+        "matched": true,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Ludwigsvorstadt-Isarvorstadt",
+        "adminLevel": 9,
+        "matched": true,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": -1E+1,
+    "modes": [
+      "HIGHSPEED_RAIL"
+    ],
+    "importance": 0.00003719492451637052
+  },
+  {
+    "type": "PLACE",
+    "category": "newsagent_14",
+    "tokens": [],
+    "name": "Yorma's",
+    "id": "node/[11441695259]",
+    "lat": 48.1397969,
+    "lon": 11.5589461,
+    "country": "DE",
+    "zip": "80335",
+    "tz": "Europe/Berlin",
+    "areas": [
+      {
+        "name": "Deutschland",
+        "adminLevel": 2,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Bayern",
+        "adminLevel": 4,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Oberbayern",
+        "adminLevel": 5,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "München",
+        "adminLevel": 6,
+        "matched": true,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Ludwigsvorstadt-Isarvorstadt",
+        "adminLevel": 9,
+        "matched": true,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": 28.332382202148438
+  },
+  {
+    "type": "ADDRESS",
+    "tokens": [],
+    "name": "Bayerstraße 11",
+    "id": "",
+    "lat": 48.1397969,
+    "lon": 11.5589461,
+    "street": "Bayerstraße",
+    "houseNumber": "11",
+    "country": "DE",
+    "zip": "80335",
+    "tz": "Europe/Berlin",
+    "areas": [
+      {
+        "name": "Deutschland",
+        "adminLevel": 2,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Bayern",
+        "adminLevel": 4,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Oberbayern",
+        "adminLevel": 5,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "München",
+        "adminLevel": 6,
+        "matched": true,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Ludwigsvorstadt-Isarvorstadt",
+        "adminLevel": 9,
+        "matched": true,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": 28.332382202148438
+  },
+  {
+    "type": "PLACE",
+    "category": "bakery_16",
+    "tokens": [],
+    "name": "Rischart",
+    "id": "node/[9760119166]",
+    "lat": 48.1398185,
+    "lon": 11.5591231,
+    "country": "DE",
+    "zip": "80335",
+    "tz": "Europe/Berlin",
+    "areas": [
+      {
+        "name": "Deutschland",
+        "adminLevel": 2,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Bayern",
+        "adminLevel": 4,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Oberbayern",
+        "adminLevel": 5,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "München",
+        "adminLevel": 6,
+        "matched": true,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Ludwigsvorstadt-Isarvorstadt",
+        "adminLevel": 9,
+        "matched": true,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": 34.33293914794922
+  },
+  {
+    "type": "ADDRESS",
+    "tokens": [],
+    "name": "Bayerstraße 10a",
+    "id": "",
+    "lat": 48.1398185,
+    "lon": 11.5591231,
+    "street": "Bayerstraße",
+    "houseNumber": "10a",
+    "country": "DE",
+    "zip": "80335",
+    "tz": "Europe/Berlin",
+    "areas": [
+      {
+        "name": "Deutschland",
+        "adminLevel": 2,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Bayern",
+        "adminLevel": 4,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Oberbayern",
+        "adminLevel": 5,
+        "matched": true,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "München",
+        "adminLevel": 6,
+        "matched": true,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Ludwigsvorstadt-Isarvorstadt",
+        "adminLevel": 9,
+        "matched": true,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": 34.33293914794922
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "Central Station Forecourt",
+    "id": "gb-great-britain_6090194",
+    "lat": 55.860508,
+    "lon": -4.2580366,
+    "country": "GB",
+    "tz": "Europe/London",
+    "areas": [
+      {
+        "name": "United Kingdom",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Alba / Scotland",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Glasgow City",
+        "adminLevel": 6,
+        "matched": true,
+        "unique": true,
+        "default": true
+      }
+    ],
+    "score": -27.600000381469727,
+    "modes": [
+      "BUS"
+    ],
+    "importance": 0.00002030132236541249
+  },
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "Glasgow Central Station Bridge Ferry Landing",
+    "id": "gb-great-britain_930GGLW",
+    "lat": 55.856133,
+    "lon": -4.2585516,
+    "country": "GB",
+    "tz": "Europe/London",
+    "areas": [
+      {
+        "name": "United Kingdom",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Alba / Scotland",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Glasgow City",
+        "adminLevel": 6,
+        "matched": false,
+        "unique": true,
+        "default": true
+      }
+    ],
+    "score": -26.850000381469727,
+    "modes": [],
+    "importance": 0
+  },
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "GLASGOW CITY CENTRE KILLERMONT ST/BUS STATION",
+    "id": "gb-flixbus_9b6a7745-3ecb-11ea-8017-02437075395e",
+    "lat": 55.865273,
+    "lon": -4.2506010000000005,
+    "country": "GB",
+    "tz": "Europe/London",
+    "areas": [
+      {
+        "name": "United Kingdom",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Alba / Scotland",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Glasgow City",
+        "adminLevel": 6,
+        "matched": false,
+        "unique": true,
+        "default": true
+      }
+    ],
+    "score": -20.031688690185547,
+    "modes": [
+      "COACH",
+      "BUS"
+    ],
+    "importance": 0.020273437723517418
+  },
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "Vienna Central Station",
+    "id": "at-Railway-Current-Reference-Data-2026_Pat:49:1349",
+    "lat": 48.185190000000006,
+    "lon": 16.376413,
+    "level": 1,
+    "country": "AT",
+    "zip": "1100",
+    "tz": "Europe/Vienna",
+    "areas": [
+      {
+        "name": "Österreich",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Wien",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Favoriten",
+        "adminLevel": 9,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Katastralgemeinde Favoriten",
+        "adminLevel": 1E+1,
+        "matched": false,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": -19.55277442932129,
+    "modes": [
+      "HIGHSPEED_RAIL",
+      "LONG_DISTANCE",
+      "COACH",
+      "NIGHT_RAIL",
+      "REGIONAL_RAIL",
+      "SUBURBAN",
+      "SUBWAY",
+      "TRAM",
+      "BUS"
+    ],
+    "importance": 0.021196551620960236
+  },
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "Milan Central Station",
+    "id": "it-trenitalia_IT::StopPlace:otherTRENITALIA:830001700",
+    "lat": 45.486340999999996,
+    "lon": 9.204544,
+    "level": 2,
+    "country": "IT",
+    "tz": "Europe/Rome",
+    "areas": [
+      {
+        "name": "Italia",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Lombardia",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Milano",
+        "adminLevel": 6,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Milano",
+        "adminLevel": 8,
+        "matched": false,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Municipio 2",
+        "adminLevel": 1E+1,
+        "matched": false,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": -19.22166633605957,
+    "modes": [
+      "HIGHSPEED_RAIL",
+      "LONG_DISTANCE",
+      "NIGHT_RAIL",
+      "REGIONAL_RAIL",
+      "SUBURBAN",
+      "BUS"
+    ],
+    "importance": 0.007222666870802641
+  },
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "Arnhem central station",
+    "id": "de-DELFI_nl:4:18038",
+    "lat": 51.98477999999999,
+    "lon": 5.901003000000001,
+    "level": 1,
+    "country": "NL",
+    "tz": "Europe/Amsterdam",
+    "areas": [
+      {
+        "name": "Nederland",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Nederland",
+        "adminLevel": 3,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Gelderland",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Arnhem",
+        "adminLevel": 8,
+        "matched": false,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Arnhem",
+        "adminLevel": 1E+1,
+        "matched": false,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": -18.79500389099121,
+    "modes": [
+      "HIGHSPEED_RAIL",
+      "LONG_DISTANCE",
+      "NIGHT_RAIL",
+      "REGIONAL_RAIL",
+      "BUS"
+    ],
+    "importance": 0.005373998079448938
+  },
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "Grand Central Station",
+    "id": "gb-northern-ireland_50-GC-P",
+    "lat": 54.594930000000005,
+    "lon": -5.940011,
+    "country": "GB",
+    "tz": "Europe/London",
+    "areas": [
+      {
+        "name": "United Kingdom",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Northern Ireland / Tuaisceart Éireann",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Belfast City District",
+        "adminLevel": 7,
+        "matched": false,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Town Parks",
+        "adminLevel": 1E+1,
+        "matched": false,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": -18.746400833129883,
+    "modes": [
+      "REGIONAL_RAIL",
+      "BUS"
+    ],
+    "importance": 0.003157641738653183
+  },
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "Hendon Central Station",
+    "id": "gb-great-britain_940GZZLUHCL",
+    "lat": 51.583298,
+    "lon": -0.22642456000000002,
+    "country": "GB",
+    "tz": "Europe/London",
+    "areas": [
+      {
+        "name": "United Kingdom",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "England",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Greater London",
+        "adminLevel": 5,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "London Borough of Barnet",
+        "adminLevel": 8,
+        "matched": false,
+        "unique": true,
+        "default": true
+      }
+    ],
+    "score": -18.72844696044922,
+    "modes": [
+      "SUBWAY",
+      "BUS"
+    ],
+    "importance": 0.004767883103340864
+  },
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "Surrey Central Station",
+    "id": "ca-bc-TransLink_99951",
+    "lat": 49.189564,
+    "lon": -122.84787,
+    "level": 2,
+    "country": "CA",
+    "areas": [
+      {
+        "name": "Canada",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "British Columbia",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Metro Vancouver Regional District",
+        "adminLevel": 6,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Surrey",
+        "adminLevel": 8,
+        "matched": false,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "City Centre",
+        "adminLevel": 9,
+        "matched": false,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": -18.679059982299805,
+    "modes": [
+      "SUBWAY",
+      "BUS"
+    ],
+    "importance": 0.004387089516967535
+  },
+  {
+    "type": "STOP",
+    "tokens": [
+      [
+        0,
+        7
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        16,
+        7
+      ]
+    ],
+    "name": "Hamburg central bus station",
+    "id": "at-Railway-Current-Reference-Data-2026_de:02000:10950:11:1",
+    "lat": 53.552475,
+    "lon": 10.008094999999999,
+    "level": -1,
+    "country": "DE",
+    "zip": "20099",
+    "tz": "Europe/Berlin",
+    "areas": [
+      {
+        "name": "Deutschland",
+        "adminLevel": 2,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "Hamburg",
+        "adminLevel": 4,
+        "matched": false,
+        "unique": true,
+        "default": true
+      },
+      {
+        "name": "Hamburg-Mitte",
+        "adminLevel": 9,
+        "matched": false,
+        "unique": false,
+        "default": false
+      },
+      {
+        "name": "St. Georg",
+        "adminLevel": 1E+1,
+        "matched": false,
+        "unique": false,
+        "default": false
+      }
+    ],
+    "score": -18.651750564575195,
+    "modes": [
+      "HIGHSPEED_RAIL",
+      "LONG_DISTANCE",
+      "COACH",
+      "NIGHT_RAIL",
+      "REGIONAL_RAIL",
+      "SUBURBAN",
+      "SUBWAY",
+      "BUS"
+    ],
+    "importance": 0.025201287120580673
+  }
+]
