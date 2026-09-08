@@ -37,6 +37,7 @@ object MotisAPI {
         endpoint: Endpoint = Endpoint.PRODUCTION,
         json: Json = Json {
             ignoreUnknownKeys = true
+            allowSpecialFloatingPointValues = true
         },
         isDebug: Boolean = false
     ): MotisService {
