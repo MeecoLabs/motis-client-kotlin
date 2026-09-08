@@ -16,7 +16,7 @@ data class Place(
     val importance: Double? = null,
     val lat: Double,
     val lon: Double,
-    val level: Int? = null,
+    val level: Double? = null,
     val tz: String? = null,
     val arrival: Instant? = null,
     val departure: Instant? = null,
