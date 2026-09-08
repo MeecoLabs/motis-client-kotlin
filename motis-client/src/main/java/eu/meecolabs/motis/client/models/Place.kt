@@ -35,5 +35,5 @@ data class Place(
     val flexId: String? = null,
     val flexStartPickupDropOffWindow: Instant? = null,
     val flexEndPickupDropOffWindow: Instant? = null,
-    val modes: TransitMode? = null
+    val modes: List<TransitMode>? = null
 )
