@@ -5,7 +5,7 @@
 
 package eu.meecolabs.motis.client.models.response
 
-import eu.meecolabs.motis.client.models.ServiceConfig
+import eu.meecolabs.motis.client.models.ServerConfig
 import kotlinx.serialization.Serializable
 
 @Serializable
@@ -13,5 +13,5 @@ data class MapInitialResponse(
     val lat: Double,
     val lon : Double,
     val zoom: Double,
-    val serviceConfig: ServiceConfig
+    val serverConfig: ServerConfig
 )

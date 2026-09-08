@@ -8,7 +8,7 @@ package eu.meecolabs.motis.client.models
 import kotlinx.serialization.Serializable
 
 @Serializable
-data class ServiceConfig(
+data class ServerConfig(
     val motisVersion: String,
     val hasElevation: Boolean,
     val hasRoutedTransfers: Boolean,
