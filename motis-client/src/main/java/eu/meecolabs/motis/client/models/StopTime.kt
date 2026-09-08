@@ -24,7 +24,7 @@ data class StopTime(
     val routeColor: String? = null,
     val routeTextColor: String? = null,
     val tripId: String,
-    val routeType: String? = null,
+    val routeType: Int? = null,
     val routeShortName: String,
     val routeLongName: String,
     val tripShortName: String,
