@@ -29,6 +29,7 @@ import eu.meecolabs.motis.client.models.response.PlanResponse
 import eu.meecolabs.motis.client.models.response.RentalsResponse
 import eu.meecolabs.motis.client.models.response.StopTimesResponse
 import eu.meecolabs.motis.client.models.response.TripResponse
+import eu.meecolabs.motis.client.utils.ExperimentalEndpoint
 import retrofit2.http.Body
 import retrofit2.http.GET
 import retrofit2.http.POST
@@ -121,6 +122,7 @@ interface MotisService {
         @Body body: OneToManyRequest
     ): OneToManyResponse
 
+    @ExperimentalEndpoint
     @GET("experimental/one-to-many-intermodal")
     suspend fun oneToManyIntermodal(
         @Query("one") one: String,
@@ -150,6 +152,7 @@ interface MotisService {
         @Query("requireCarTransport") requireCarTransport: Boolean? = null
     ): OneToManyIntermodalResponse
 
+    @ExperimentalEndpoint
     @POST("experimental/one-to-many-intermodal")
     suspend fun postOneToManyIntermodal(
         @Body body: OneToManyIntermodalRequest
@@ -284,6 +287,7 @@ interface MotisService {
         @Query("max") max: String
     ): List<Double>
 
+    @ExperimentalEndpoint
     @GET("experimental/map/routes")
     suspend fun mapRoutes(
         @Query("zoom") zoom: Double,
@@ -292,6 +296,7 @@ interface MotisService {
         @Query("language") language: List<String>? = null
     ): MapRoutesResponse
 
+    @ExperimentalEndpoint
     @GET("experimental/map/route-details")
     suspend fun mapRouteDetails(
         @Query("routeIdx") routeIdx: Int,
